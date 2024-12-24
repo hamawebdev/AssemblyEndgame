@@ -6,14 +6,14 @@ Assembly Endgame is a React-based web application that challenges users to guess
 
 ## Table of Contents
 
-- Preview
-- Getting Started
-- Features
-- Project Structure
-- Dependencies
-- Usage
-- Contributing
-- License
+- [Preview](#preview)
+- [Getting Started](#getting-started)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Dependencies](#dependencies)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Preview
 
